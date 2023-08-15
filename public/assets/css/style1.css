@@ -1,0 +1,10 @@
+.top {
+  background: url("https://wallpaperaccess.com/full/5785159.png");
+  background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 250px;
+}
+
+.top img {
+  height: 450px;
+}
